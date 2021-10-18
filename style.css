@@ -1,0 +1,8 @@
+.hf{
+    background-color: rgb(202, 199, 199);
+    height: 100px;
+    width: 500px;
+    display: flex;
+    align-self: center;
+    align-items: center;
+}
